@@ -1,0 +1,9 @@
+nombre de base de datos: bacoopco_plataforma_ajedrez
+user name: bacoopco_plataforma_ajedrez
+Contraseña: ZEaxT3TBUu5cJXxykr2E
+SQL Mode: 
+STRICT_TRANS_TABLES
+ERROR_FOR_DIVISION_BY_ZERO
+NO_AUTO_CREATE_USER
+NO_ENGINE_SUBSTITUTION
+host name: localhost (UNIX socket /var/lib/mysql/mysql.sock)
